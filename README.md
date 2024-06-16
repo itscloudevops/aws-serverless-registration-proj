@@ -61,11 +61,14 @@ Access-Control-Allow-Methods :- " select POST & OPTION " and save
 
 deploy api ( new stage -->  stage name (prod) ----> deploy
 
-
-
-## Step 5: Test the Application
-
 copy your invoke url and paste it on your script.js
+
+## Step 6: Create website by using s3 and deploy your content
+
+upload your index.html and script.js
+
+## Step 7: Test the Application
+
 
 =======================END=================================
 
