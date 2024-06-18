@@ -2,7 +2,7 @@ function submitForm() {
     event.preventDefault();
 
     // Get form data
-    const name = document.getElementById('name').value;.
+    const name = document.getElementById('name').value;
     const email = document.getElementById('email').value;
     const phone = document.getElementById('phone').value;
     const password = document.getElementById('address').value;
