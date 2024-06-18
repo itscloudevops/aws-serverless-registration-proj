@@ -1,5 +1,5 @@
 import json
-import boto3
+import boto35
 
 dynamodb = boto3.resource('dynamodb')
 table = dynamodb.Table('registration-table')
